@@ -30,7 +30,8 @@ Mapped the Normalized tables as a Physical Data Model
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
 Sample Output
 
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Midterm%20Lab%20Task/Images/Clean)
+![picture]![image](https://github.com/user-attachments/assets/107387af-954e-415a-8646-f5004542195b)
+
 
 Here's the Physical Data Model
 

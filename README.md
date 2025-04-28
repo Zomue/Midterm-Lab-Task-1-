@@ -30,7 +30,8 @@ Mapped the Normalized tables as a Physical Data Model
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
 Sample Output
 
-[image](https://github.com/user-attachments/assets/107387af-954e-415a-8646-f5004542195b)
+![image](https://github.com/user-attachments/assets/6b8591ba-ff7c-4a40-bad1-7f202e859c9b)
+
 
 
 Here's the Physical Data Model

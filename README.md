@@ -1,4 +1,4 @@
-[# Midterm Lab Task 1 - Data Cleaning and Preparation using Excel
+# Midterm Lab Task 1 - Data Cleaning and Preparation using Excel
 For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data CLeaning and Preparation
 
 ## STEP 1 Data Cleaning process
@@ -24,8 +24,7 @@ Mapped the Normalized tables as a Physical Data Model
 
 ## STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
 
-![picture](https://github.com/user-attachments/assets/70a2f922-6b5f-451b-a0fe-5d29bb2c1efd)
-
+![picture]![image](https://github.com/user-attachments/assets/d655d584-0a02-4c29-b72f-1e66450db70e)
 
 
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
@@ -36,6 +35,3 @@ Sample Output
 Here's the Physical Data Model
 
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Midterm%20Lab%20Task/Images/Diagram)
-
-[BACK TO PORTFOLIO](https://zomue.github.io/)
-
